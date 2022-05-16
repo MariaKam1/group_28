@@ -4,3 +4,4 @@
 4) android 11
 5) xiaomi p12
 6) xiaomi p20
+7) samsung s20
